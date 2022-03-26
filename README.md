@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sevilaybezir
-- 👀 I’m interested in 
+- 👀 I’m interested in HTML, CSS, Javascript
 - 🌱 I’m currently learning front-end developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
